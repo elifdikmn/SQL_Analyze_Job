@@ -252,5 +252,5 @@ _ ** 💡 Analytical Mindset: Transformed questions into insights, and insights 
 3. **Emerging Trends**:Cloud, engineering, and ML tools are reshaping what it means to be a “data analyst.”
 5. **Optimization**: The most valuable skills balance both market demand and salary growth potential.
 
-###Final Thoughts
+### Final Thoughts
 This project strengthened my technical foundation and deepened my understanding of today’s data job market. 
