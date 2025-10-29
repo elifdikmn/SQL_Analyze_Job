@@ -12,8 +12,6 @@ The idea for this project was born from a simple question — *what does it real
 
 I wanted to go beyond job titles and buzzwords to see which **skills**, **tools**, and **roles** truly stand out in the market. The goal: help myself and others navigate the data job landscape more strategically.
 
-The dataset comes from [Luke Barousse’s SQL Course](https://lukebarousse.com/sql) — a rich collection of job postings packed with details about salaries, companies, locations, and required skills.
-
 ### The questions I set out to answer:
 1. What are the top-paying data analyst jobs?  
 2. What skills do these top-paying jobs require?  
